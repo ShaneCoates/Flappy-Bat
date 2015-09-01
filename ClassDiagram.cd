@@ -1,0 +1,1971 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Apple" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAAAAAAgABAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>source\Apple.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Background" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIQCAAQACAgAIiGBAISAAgMAQASAFAgAIAAkkAAiAoA=</HashCode>
+      <FileName>source\Background.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackgroundObject" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAABEgZBAAAAAABgIAQAAACAYAAAgEAAAgw=</HashCode>
+      <FileName>source\BackgroundObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARSYgIAhEqAADgAAiKAEACICACiACA4ACewgAgAyIiI=</HashCode>
+      <FileName>source\Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HighScoreState" Collapsed="true">
+    <Position X="22.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAYCABAIAQAANwAAAAAAgACEIAAEEgABEAgFwAAAWgA=</HashCode>
+      <FileName>source\HighScoreState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lamp" Collapsed="true">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAAAAAgAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>source\Lamp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Light" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAAgAAAgCAEAAAAgACAAAAQAgACAAAAEAIAoA=</HashCode>
+      <FileName>source\Light.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuState" Collapsed="true">
+    <Position X="24.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAgAAAgAYAoAAAAAAAAAAAAIAgJAAAABAAwY=</HashCode>
+      <FileName>source\MenuState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewHighScore" Collapsed="true">
+    <Position X="26" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAYCAAABAAAAFgABAAAAgACAAAAGAAAAgABAAAAAAgA=</HashCode>
+      <FileName>source\NewHighScore.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OptionState" Collapsed="true">
+    <Position X="27.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAAoA4AIAAAAAAAAAgAAKAgBBEIAAQAgI=</HashCode>
+      <FileName>source\OptionState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="29.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACQAAACQAhYJAIAEQCFgEAQAAACBZBIBgUAAABQ=</HashCode>
+      <FileName>source\Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayState" Collapsed="true">
+    <Position X="31.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYSAAAAAIAABgAAAAAEAAAAAAAAAACAAAIAAAAgAgA=</HashCode>
+      <FileName>source\PlayState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreEntry" Collapsed="true">
+    <Position X="33" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAA=</HashCode>
+      <FileName>source\ScoreEntry.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScrollingText" Collapsed="true">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAACgAAAIABAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>source\ScrollingText.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SplashState" Collapsed="true">
+    <Position X="34.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAAgQgAAAAAAAAAAAAAAAAAAAAQAAAAgA=</HashCode>
+      <FileName>source\SplashState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="sqlite3" Collapsed="true">
+    <Position X="31.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wC5gqNBjwhAIBBgAqAGREEAAIsApBTJCopIQYSCgMRU=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_file" Collapsed="true">
+    <Position X="40" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_io_methods" Collapsed="true">
+    <Position X="43.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEgAAIAEgAIAAgAACAAAAAAEBAAQAQAIEACAAAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_mutex" Collapsed="true">
+    <Position X="22.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABgAAAAAAAAAAAEAAAAAAAAAAAAAAAIgA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_vfs" Collapsed="true">
+    <Position X="38.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAgAAAAAABIAAAAAABAAEYAAAAgIAAAGgUAAxCiE=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_mem_methods" Collapsed="true">
+    <Position X="19" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAQAARAAAEAAAAAAAEAABAAAAEAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_context" Collapsed="true">
+    <Position X="36.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQABAIAAgAAAAIAAAAAEAAAABAAAQAIAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_vtab" Collapsed="true">
+    <Position X="40" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAhAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_index_info" Collapsed="true">
+    <Position X="41.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAKEAAAAAAAAYAAAAKAAAAAgAAEAAAAAAAABBAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_vtab_cursor" Collapsed="true">
+    <Position X="41.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_module" Collapsed="true">
+    <Position X="20.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQSAECAIACAAAIAABAAACCBAAgAAAQAAEQgAACEQAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_mutex_methods" Collapsed="true">
+    <Position X="24.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAEAAAIAAIAAAAIABAAAAAAAAAAAACCAAAAAE=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_pcache_page" Collapsed="true">
+    <Position X="29.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_pcache_methods2" Collapsed="true">
+    <Position X="27.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAACIEAAAQRAAIAAAABAAAAAAAAAEAAAAQ=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_pcache_methods" Collapsed="true">
+    <Position X="26" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAACIEAAAQRAAAAAAABAAAAAAAAAEAAAAQ=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_backup" Collapsed="true">
+    <Position X="34.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIgDABAACAAAAAABAAABIAAAAAAAAEAAAAACAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_rtree_geometry" Collapsed="true">
+    <Position X="31.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAEAAAABAAACAAAAEAAAAAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Hash" Collapsed="true">
+    <Position X="38.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAABAEAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="HashElem" Collapsed="true">
+    <Position X="40" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAABQAAIABAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="BusyHandler" Collapsed="true">
+    <Position X="20.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="AggInfo" Collapsed="true">
+    <Position X="24.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAQDAQAQAAIAIAAAAAAAQAAAAAAAAAAAAAAACCBEAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="AuthContext" Collapsed="true">
+    <Position X="29.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="AutoincInfo" Collapsed="true">
+    <Position X="31.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAQAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Bitvec" Collapsed="true">
+    <Position X="36.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAACAAAAAIAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CollSeq" Collapsed="true">
+    <Position X="26" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAGIAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Column" Collapsed="true">
+    <Position X="27.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAACAACBAAAAAAAABAAAABAAgAAAE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Db" Collapsed="true">
+    <Position X="34.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAgAE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Schema" Collapsed="true">
+    <Position X="33" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAACAgAAAAABAAgCAAAAEAAAAAAACAAAAAEAAAQ=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Expr" Collapsed="true">
+    <Position X="43.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAACAogAAAABAAAAABAAJYAAoAAAQ=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ExprList" Collapsed="true">
+    <Position X="19" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAABAAgAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ExprSpan" Collapsed="true">
+    <Position X="20.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAgAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FKey" Collapsed="true">
+    <Position X="27.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ANAABAAAAAAAAAAAAAAAAAIAACAAAIAAAUAAAAAAAAg=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FuncDestructor" Collapsed="true">
+    <Position X="36.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FuncDef" Collapsed="true">
+    <Position X="33" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAEAAEAAAAAEAAACAAAAAwQAAAABAAE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FuncDefHash" Collapsed="true">
+    <Position X="34.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="IdList" Collapsed="true">
+    <Position X="19" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Index" Collapsed="true">
+    <Position X="24.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAABAAAMAAAAAUAoQIACAIAEEA4AAAAASABAAU=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="IndexSample" Collapsed="true">
+    <Position X="26" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAABACEEAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="KeyInfo" Collapsed="true">
+    <Position X="31.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEACAAAREAAAAAAAAAAAAAAAAABAAAAAAgAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Lookaside" Collapsed="true">
+    <Position X="40" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgEKAAAAAEAAAEIAAAACAAAABAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LookasideSlot" Collapsed="true">
+    <Position X="41.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Module" Collapsed="true">
+    <Position X="33" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="NameContext" Collapsed="true">
+    <Position X="34.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAASAAAAAABAAAAAAAAAAACIAAAAAACIAAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Parse" Collapsed="true">
+    <Position X="43.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YExACIpIEFlTAAo1JihsgSwQAsIEMGQDpVCxQAIEEBA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PrintfArguments" Collapsed="true">
+    <Position X="36.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAQAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RowSet" Collapsed="true">
+    <Position X="40" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQAQAAAEAQAAAAIIAAAAAAAAAAAgAIAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Savepoint" Collapsed="true">
+    <Position X="31.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIAE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Select" Collapsed="true">
+    <Position X="41.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIACBQAAAAEAAAAAAAgAAgAAIAAAAEAIEAIEAABAAE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SelectDest" Collapsed="true">
+    <Position X="43.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAEAAAIAAAAAAEAIAAAQAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SrcList" Collapsed="true">
+    <Position X="26" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAABAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="StrAccum" Collapsed="true">
+    <Position X="31.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAQBBAABAAAAAAAAAABAAAAAAAAAABCAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Table" Collapsed="true">
+    <Position X="38.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABABAACgFBBIAAABAAUAQAAAAAABABIACAAAiAABAk=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TableLock" Collapsed="true">
+    <Position X="40" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIABAAAAAAAAAAAgAAAAAAAAAAE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Token" Collapsed="true">
+    <Position X="22.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Trigger" Collapsed="true">
+    <Position X="27.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAABQAAAAAgAAgAAAAACAAAAIACABAAE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TriggerPrg" Collapsed="true">
+    <Position X="29.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAABAAAIAAAAAAAAAAAAAAAACAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TriggerStep" Collapsed="true">
+    <Position X="31.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAEAAAAAAAEAAIAAQAAAAAAAAggEAAAAIAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="UnpackedRecord" Collapsed="true">
+    <Position X="22.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAABAAAAAAAAAAAAAAAQAAAAAIAIAAAAgAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VTable" Collapsed="true">
+    <Position X="40" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAARAAAAAAIAAAAAAAIAAAAgAAAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VtabCtx" Collapsed="true">
+    <Position X="38.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Walker" Collapsed="true">
+    <Position X="24.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAICAAAAAAIQIAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WhereInfo" Collapsed="true">
+    <Position X="31.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAEAEEAAAAAAIAAQoAAAABqCBgAEgIACAAAAAIAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="With" Collapsed="true">
+    <Position X="34.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAEAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Btree" Collapsed="true">
+    <Position X="43.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAAAAEAASIAAAAAAAAAAAAIAAAAAAAAAAEAARAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="BtCursor" Collapsed="true">
+    <Position X="40" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJUAAAEIBAEAAAAQAIIEAAAAAIAAAAAAQgAACAQRBAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="BtShared" Collapsed="true">
+    <Position X="19" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAATAAEBDgACAQISAAIQAEQABAAQACABIBA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Vdbe" Collapsed="true">
+    <Position X="26" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wCxoZAALAAFQBAAICARhABQDAYFAICcAYsAAAAIRDDA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mem" Collapsed="true">
+    <Position X="7.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAGIAAQAAAAEAAAAAAAAAAAAAAAEAJBAQAAAAQ=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SubProgram" Collapsed="true">
+    <Position X="34.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAIAAAAAAAAAAAAAAIAAAAAAAAAAAAAEAAAAADAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VdbeOp" Collapsed="true">
+    <Position X="3.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAABBgAAgAAAAAAgAAAAAAAAAEgAAAAgAAAAAAAwAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VdbeOpList" Collapsed="true">
+    <Position X="33" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAABAAAAAAAAAAAAAAAAAAAAAEAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Pager" Collapsed="true">
+    <Position X="40" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>rZCASATIAsgkIgIAACFAQAQCAjAAoCzCw0CAASIBGJE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PgHdr" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAAAAAABAIAQIAAAEAAAAAAQAAAABAABAAAAAAQ=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PCache" Collapsed="true">
+    <Position X="20.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABCChAAAJAAAQAAAAgAQAAAAIAAAABAABAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DbFixer" Collapsed="true">
+    <Position X="36.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAQACAAAABAAAAAAAAAIAAAACAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0003_7" Collapsed="true">
+    <Position X="14.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAQAAAAAIAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Sqlite3Config" Collapsed="true">
+    <Position X="19" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIoCBCAAEACgAABiACAIAIAkgBRAAAgBgxDACAIKRI=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VdbeSorter" Collapsed="true">
+    <Position X="34.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABICBAQAQAAAAAAAAQEAAAAAAAIAEAAAAAAAABAgAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Explain" Collapsed="true">
+    <Position X="41.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgQAAAAAABAAAIAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="AuxData" Collapsed="true">
+    <Position X="33" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAIBAIA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VdbeCursor" Collapsed="true">
+    <Position X="27.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEEAkAEABAAIAAAEBIAAAAoAYAQgAAAAAAAEwgIRAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VdbeFrame" Collapsed="true">
+    <Position X="29.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCFAIAACAAAIAAAAQAAAAAQAAAAgAAIAANAAAAAQAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3StatType" Collapsed="true">
+    <Position X="22.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DateTime" Collapsed="true">
+    <Position X="33" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAQAAQAAAAAAAACAAQpAABAICIAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="BenignMallocHooks" Collapsed="true">
+    <Position X="34.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MemBlockHdr" Collapsed="true">
+    <Position X="27.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAQAEYAIAAAAEAAAAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0003_10" Collapsed="true">
+    <Position X="19" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMAAAAAAEAEAABAAAAAEAAAAAAoEAAAAAAAAAoAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mem3Block" Collapsed="true">
+    <Position X="20.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mem3Global" Collapsed="true">
+    <Position X="22.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAAAAEAAAAAAAAFAAAIAAAAAAAAAAAAAAUAAIAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mem5Link" Collapsed="true">
+    <Position X="26" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAIAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mem5Global" Collapsed="true">
+    <Position X="24.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAAQAAAAAAQAIABAAAAAAAAAAAAEAAAAICEAEAJAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_debug_mutex" Collapsed="true">
+    <Position X="38.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ScratchFreeslot" Collapsed="true">
+    <Position X="36.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mem0Global" Collapsed="true">
+    <Position X="19" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAACABAAABIAAAAAAAAABCAAAAIAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="et_info" Collapsed="true">
+    <Position X="40" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAIAEAAAAAAAAAAAAAAAAAAABAgAAAAAAAAAAAAQ=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3PrngType" Collapsed="true">
+    <Position X="20.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIIEAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="unixShm" Collapsed="true">
+    <Position X="43.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAACAAAADAAAAAAAAAAAAAAAABAgA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="unixShmNode" Collapsed="true">
+    <Position X="19" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABFAAAAAAEAAACAABAAABAAQACABAAA4AA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="unixInodeInfo" Collapsed="true">
+    <Position X="41.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAoAUAAAAAFAAAAACAAAAAAAIAAAAAQAgAEAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="UnixUnusedFd" Collapsed="true">
+    <Position X="20.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAQ=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="unixFile" Collapsed="true">
+    <Position X="38.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oqAIAEAAgEkEAAAAEggIAMAAACAAAAQQQIAAECABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="unix_syscall" Collapsed="true">
+    <Position X="36.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="vxworksFileId" Collapsed="true">
+    <Position X="41.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAABAAAAAAAAAEAAAAAAAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="unixFileId" Collapsed="true">
+    <Position X="40" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="afpLockingContext" Collapsed="true">
+    <Position X="22.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ByteRangeLockPB2" Collapsed="true">
+    <Position X="22.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAABAAAAAAAAAAEAAAAAAAAgAAAAAAAAABAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="proxyLockingContext" Collapsed="true">
+    <Position X="38.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAABAAAAQAAAAAAAAAAAAAAAACQAACAAAIAEAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="winShm" Collapsed="true">
+    <Position X="31.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAACAAAADAAAAAAAAAAAAAAAABAgA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="winShmNode" Collapsed="true">
+    <Position X="33" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAIAAAAAABAAAAAAEAAEAAAAAAABAAAACAAAAB4AA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="winceLock" Collapsed="true">
+    <Position X="26" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAACAAAAAAAAAAAAAAAACAAAAAAAQAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="winFile" Collapsed="true">
+    <Position X="27.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAABAEAAAFgAAAAAkggAAMAAgAAgAAAEQAAAACABEAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="winMemData" Collapsed="true">
+    <Position X="29.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAEBA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="win_syscall" Collapsed="true">
+    <Position X="24.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PCache1" Collapsed="true">
+    <Position X="22.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAFACAAAQAgAAAAABAgAgACAAAAAAAACAACAAAABA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PgHdr1" Collapsed="true">
+    <Position X="29.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAQgAAAAAEQEAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PgFreeslot" Collapsed="true">
+    <Position X="27.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PGroup" Collapsed="true">
+    <Position X="31.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAEhAAAAAAAAAAAAIAAAAAAAAAAIAg=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PCacheGlobal" Collapsed="true">
+    <Position X="24.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAAACAAECAAAAIgAAAAAgAEAAAAAAJAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RowSetEntry" Collapsed="true">
+    <Position X="43.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAABAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RowSetChunk" Collapsed="true">
+    <Position X="41.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Wal" Collapsed="true">
+    <Position X="43.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAIAAiAoEACBAQAAAIAAAAAAAAAAgBIAAAAQCAAHQA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PagerSavepoint" Collapsed="true">
+    <Position X="41.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAIAAAAIgAAAIAAAAAAAgAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WalIndexHdr" Collapsed="true">
+    <Position X="20.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAEAAKAAAAIBAAAEAAgAAAQgAAAAAAAAABA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WalIterator" Collapsed="true">
+    <Position X="22.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WalCkptInfo" Collapsed="true">
+    <Position X="19" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WalWriter" Collapsed="true">
+    <Position X="26" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAACAAAAAAAAAECAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MemPage" Collapsed="true">
+    <Position X="31.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAACAAAABAAAEAEAAAAwEAAAAQAFIgEiAAAAAIBQA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="BtLock" Collapsed="true">
+    <Position X="41.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAgAAAAAAAAAgAAAAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CellInfo" Collapsed="true">
+    <Position X="24.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABIAEAAAEAAAABAAAAAAAAAAAQAgAAACAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="IntegrityCk" Collapsed="true">
+    <Position X="27.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAgAAAAAAAAAAAAAAAAAAAAAAgAAACRAAAAAAAABA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ValueNewStat4Ctx" Collapsed="true">
+    <Position X="24.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAIACAAAAAAIA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VdbeOpIter" Collapsed="true">
+    <Position X="31.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEABAAAIAAAAAAAAAAAAAAAAAQABAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Incrblob" Collapsed="true">
+    <Position X="20.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAgQAAAAAAAAAAAAAAAEAIAAIAAAAAAAAAQ=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VdbeSorterIter" Collapsed="true">
+    <Position X="36.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgQAAEAAAAABAgAAAIEAAAAAAAAAAAAEAACAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SorterRecord" Collapsed="true">
+    <Position X="27.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FileWriter" Collapsed="true">
+    <Position X="26" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAgABAAwAAAAAAAAAAAAAAAAAEAACAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="JournalFile" Collapsed="true">
+    <Position X="29.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAACAAAAgAAAAAAAAAAAAIAQAAAAAAAQAAACAAAAQ=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MemJournal" Collapsed="true">
+    <Position X="29.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAgAQAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FilePoint" Collapsed="true">
+    <Position X="24.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FileChunk" Collapsed="true">
+    <Position X="22.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SrcCount" Collapsed="true">
+    <Position X="24.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Stat4Accum" Collapsed="true">
+    <Position X="27.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAQAAAABAAAgAAAgAAABAAgAEjAAAAAAAg=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Stat4Sample" Collapsed="true">
+    <Position X="29.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAEAAAgAAAAARBACAAIAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="analysisInfo" Collapsed="true">
+    <Position X="26" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="compareInfo" Collapsed="true">
+    <Position X="29.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAABAAAAAAAAAAgAAAAI=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SumCtx" Collapsed="true">
+    <Position X="36.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAiAAAAAAAAAAgAAAAABAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CountCtx" Collapsed="true">
+    <Position X="31.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_api_routines" Collapsed="true">
+    <Position X="33" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9Ff/ozp/D2WDc+UoOLQ6GMdXNm/30RC5ZtU/1yazlcQ=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3AutoExtList" Collapsed="true">
+    <Position X="43.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sPragmaNames" Collapsed="true">
+    <Position X="29.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAABAAAAAIAAAE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DistinctCtx" Collapsed="true">
+    <Position X="38.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAAAAAAAAAAAAAAAQIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TabResult" Collapsed="true">
+    <Position X="41.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAgAgAAAABAAAAQAAAAAAACAAAgAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WhereClause" Collapsed="true">
+    <Position X="29.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAYAAAAAAAAAAAAAAAAAAAAAoAEAIAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WhereMaskSet" Collapsed="true">
+    <Position X="38.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAACA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WhereOrInfo" Collapsed="true">
+    <Position X="41.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WhereAndInfo" Collapsed="true">
+    <Position X="27.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WhereLevel" Collapsed="true">
+    <Position X="33" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQQAAAAgAEAAAIAAAAAAAAgAAEgALAAwAoIAAACAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WhereLoop" Collapsed="true">
+    <Position X="34.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAwAAAAAAAQAAAAAIAACAAAAAQARIwAQIgAAAABAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WherePath" Collapsed="true">
+    <Position X="19" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAQhAAAAAAAAAAAAAAAEAAAAAAAAAAgAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WhereTerm" Collapsed="true">
+    <Position X="22.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAMAAAAAQAAQAAggAAAAAAAAAQAAIAAAIIAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WhereLoopBuilder" Collapsed="true">
+    <Position X="36.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAIAAACAAAAAAIAAAAICAAAAAAAAEAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WhereScan" Collapsed="true">
+    <Position X="20.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAABAAAAIAAAAAIEhAIAAAAAIAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WhereOrCost" Collapsed="true">
+    <Position X="40" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WhereOrSet" Collapsed="true">
+    <Position X="43.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LimitVal" Collapsed="true">
+    <Position X="36.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LikeOp" Collapsed="true">
+    <Position X="34.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TrigEvent" Collapsed="true">
+    <Position X="26" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAQAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="AttachKey" Collapsed="true">
+    <Position X="27.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="yyStackEntry" Collapsed="true">
+    <Position X="38.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="yyParser" Collapsed="true">
+    <Position X="36.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAEABAAAAACAAAAAg=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0003_24" Collapsed="true">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_tokenizer_module" Collapsed="true">
+    <Position X="36.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAIAQAAAAAAAAAAAAAAAAAAAAACEQAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_tokenizer" Collapsed="true">
+    <Position X="33" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_tokenizer_cursor" Collapsed="true">
+    <Position X="34.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Fts3Hash" Collapsed="true">
+    <Position X="40" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAhAEAAAAAAAAAACBAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Fts3HashElem" Collapsed="true">
+    <Position X="41.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAABQAAIABAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Fts3Table" Collapsed="true">
+    <Position X="26" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBEBBQABAAQAMgwgBAJIwIAgAIAAIoAgAEBACAIAAE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Fts3Cursor" Collapsed="true">
+    <Position X="33" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBBAAgAgQAAAABQhAAAASAAAAVAEAQAAAAAAACDCE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Fts3Expr" Collapsed="true">
+    <Position X="38.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAIAAAQIEAAAACAAAAARABAAAAAAgAIAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Fts3Phrase" Collapsed="true">
+    <Position X="19" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAIAAAAAAUAAAAAAAAAAAACABA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Fts3PhraseToken" Collapsed="true">
+    <Position X="20.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAACAAAAAAAAAAAAAABAAAAAAAAAMAAAAQAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Fts3Doclist" Collapsed="true">
+    <Position X="36.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAIQAAAAAAAAAAAAAAgAAIAIAABAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Fts3SegFilter" Collapsed="true">
+    <Position X="22.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAACAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAQ=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Fts3DeferredToken" Collapsed="true">
+    <Position X="34.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAQAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Fts3SegReader" Collapsed="true">
+    <Position X="24.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAyAQCgDMgAAABAAgCAAAAABAAAEIBAIAAAAAAAE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Fts3MultiSegReader" Collapsed="true">
+    <Position X="43.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAADgCAAABABAgAAAAAAAAAAAAIAAABUIAAAAE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TermSelect" Collapsed="true">
+    <Position X="20.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TokenDoclist" Collapsed="true">
+    <Position X="24.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAgAIAAIAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Fts3TokenAndCost" Collapsed="true">
+    <Position X="29.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgQAQAAAQAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Fts3auxTable" Collapsed="true">
+    <Position X="31.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Fts3auxCursor" Collapsed="true">
+    <Position X="29.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABEAAQgAAAAAAAAABAAEAAAAEAAgAAAAJAQAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ParseContext" Collapsed="true">
+    <Position X="19" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAKAAAAAAAABQAAAIAAAAAAAgAgAAAAAAIAAg=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="porter_tokenizer" Collapsed="true">
+    <Position X="33" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="porter_tokenizer_cursor" Collapsed="true">
+    <Position X="34.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgAAAAAAEAAAAACAEAAAAAAAAAEAAAIAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="simple_tokenizer" Collapsed="true">
+    <Position X="19" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="simple_tokenizer_cursor" Collapsed="true">
+    <Position X="20.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgQAAAAAAAAAAAAAAAAAAAAAAAAIAAIAAAAAQAAQA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Fts3tokTable" Collapsed="true">
+    <Position X="31.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAIAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Fts3tokCursor" Collapsed="true">
+    <Position X="27.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAgAAAAAAAEAAAIBAAAAEAAAAIAAAAABABA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PendingList" Collapsed="true">
+    <Position X="26" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEQAAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAQg=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SegmentNode" Collapsed="true">
+    <Position X="38.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAACIAAABECAAQAAAAAAAAAAIAgAAAAAAAQA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SegmentWriter" Collapsed="true">
+    <Position X="40" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABQAACAAAABEAABAAAAAAAAAAAIAgAAAgAAAQA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="IncrmergeWriter" Collapsed="true">
+    <Position X="22.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAABAAAIBAAAAAAEAAAQAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="NodeWriter" Collapsed="true">
+    <Position X="38.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Blob" Collapsed="true">
+    <Position X="38.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAgEAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="NodeReader" Collapsed="true">
+    <Position X="36.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAgBAAAAAAAAgEAAAAAAQAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LoadDoclistCtx" Collapsed="true">
+    <Position X="38.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAABAAAAAAAAAAAAABA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SnippetIter" Collapsed="true">
+    <Position X="24.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQCAQgAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SnippetPhrase" Collapsed="true">
+    <Position X="26" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAABAAAAAAAAAAAACBAAAAAAAAAAgAAAAAAAAAAABA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SnippetFragment" Collapsed="true">
+    <Position X="22.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQABAAAAAAAAAAAAAIAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MatchInfo" Collapsed="true">
+    <Position X="43.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAACAAAABAAAAAAAAAAAACAg=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="StrBuffer" Collapsed="true">
+    <Position X="33" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAEAAAAQAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LcsIterator" Collapsed="true">
+    <Position X="33" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAgAAAAAAAABAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TermOffset" Collapsed="true">
+    <Position X="43.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAgAAAAAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TermOffsetCtx" Collapsed="true">
+    <Position X="19" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAgAAAAAAAAAAAAAAAAAAAAAAAJAQAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="unicode_tokenizer" Collapsed="true">
+    <Position X="34.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAACAAAAAAAAAAAAAQAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="unicode_cursor" Collapsed="true">
+    <Position X="33" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABiAAAAAAEAAAAABAEAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Rtree" Collapsed="true">
+    <Position X="19" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIBEAAAAAAAQQEAYAAEBAAAAAAgABAhAAAAIMFIAIAE=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RtreeCursor" Collapsed="true">
+    <Position X="24.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAABEgAAAAAAAAAAAAIAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RtreeNode" Collapsed="true">
+    <Position X="29.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAJQCAAAAAAAAAAAAAAAAEAAAAAAAABAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RtreeCell" Collapsed="true">
+    <Position X="20.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RtreeConstraint" Collapsed="true">
+    <Position X="22.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIiAAIAgAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RtreeMatchArg" Collapsed="true">
+    <Position X="27.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAEAAAAAAAACACAAAAAAAABA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RtreeGeomCallback" Collapsed="true">
+    <Position X="26" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="IcuTokenizer" Collapsed="true">
+    <Position X="43.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="IcuCursor" Collapsed="true">
+    <Position X="41.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAEEBAAQA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SColour" Collapsed="true">
+    <Position X="34.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAI=</HashCode>
+      <FileName>include\AIE.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="sqlite_int64" Collapsed="true">
+    <Position X="12.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite_uint64" Collapsed="true">
+    <Position X="6.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_int64" Collapsed="true">
+    <Position X="10.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_uint64" Collapsed="true">
+    <Position X="6.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_callback" Collapsed="true">
+    <Position X="36.5" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_syscall_ptr" Collapsed="true">
+    <Position X="43.5" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_stmt" Collapsed="true">
+    <Position X="41.75" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_value" Collapsed="true">
+    <Position X="7.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_destructor_type" Collapsed="true">
+    <Position X="38.25" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_blob" Collapsed="true">
+    <Position X="34.75" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_pcache" Collapsed="true">
+    <Position X="40" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="i64" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="u64" Collapsed="true">
+    <Position X="3.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="u32" Collapsed="true">
+    <Position X="3.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="u16" Collapsed="true">
+    <Position X="10.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="i16" Collapsed="true">
+    <Position X="14.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="u8" Collapsed="true">
+    <Position X="19" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="i8" Collapsed="true">
+    <Position X="26" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="tRowcnt" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LogEst" Collapsed="true">
+    <Position X="29.5" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="KeyClass" Collapsed="true">
+    <Position X="27.75" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="RecordCompare" Collapsed="true">
+    <Position X="31.25" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Pgno" Collapsed="true">
+    <Position X="3.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="DbPage" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ynVar" Collapsed="true">
+    <Position X="14.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Bitmask" Collapsed="true">
+    <Position X="3.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="yDbMask" Collapsed="true">
+    <Position X="6.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="InitData" Collapsed="true">
+    <Position X="14.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Op" Collapsed="true">
+    <Position X="3.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Bool" Collapsed="true">
+    <Position X="20.75" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="bft" Collapsed="true">
+    <Position X="19" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="etByte" Collapsed="true">
+    <Position X="22.5" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="finder_type" Collapsed="true">
+    <Position X="24.25" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ht_slot" Collapsed="true">
+    <Position X="10.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="YYMINORTYPE" Collapsed="true">
+    <Position X="20.75" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="RtreeDValue" Collapsed="true">
+    <Position X="10.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="RtreeValue" Collapsed="true">
+    <Position X="33" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libs\sqlite\sqlite3.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="SpriteBlendModes" Collapsed="true">
+    <Position X="22.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAEAAAAAAAAAACAAAAABggEAAAAKAAAAASA=</HashCode>
+      <FileName>include\AIE.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CameraDirection" Collapsed="true">
+    <Position X="20.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAgAAAAAAAAAgAAAAAAAAAAAAAAAAAgIAAAAAAAA=</HashCode>
+      <FileName>include\AIE.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_0001_1" Collapsed="true">
+    <Position X="19" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UABAAAgIAIAgAICUQaggFAQoJcX/oAABEAmJSAHBAjE=</HashCode>
+      <FileName>include\AIE.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
